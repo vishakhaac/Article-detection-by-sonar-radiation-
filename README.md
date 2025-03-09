@@ -33,6 +33,30 @@ The step-by-step procedure of how the project works:
   <li>Generate correlation heatmaps to analyze feature relationships.</li>
 </ul>
 
+**3.Feature Engineering:**
+<ul>
+  <li>Apply dimensionality reduction techniques.</li>
+  <li>Perform feature scaling to standardize values..</li>
+</ul>
+
+# REQIREMENTS
+
+To run this project, install the following dependencies:
+<ul>
+  <li>Python
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn.</li>
+ 
+</ul>
+
 
 
 Applications: 

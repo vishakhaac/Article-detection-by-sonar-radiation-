@@ -59,5 +59,4 @@ To run this project, install the following dependencies:
 
 # CONCLUSION
 
-This project successfully classifies sonar signals into Rock or Mine using various machine learning techniques. The comparison of different models helps in understanding which approach is most effective for this dataset.
-
+This project successfully implements a Logistic Regression model to classify sonar signals as either Rock or Mine with high accuracy.

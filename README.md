@@ -57,15 +57,7 @@ To run this project, install the following dependencies:
  
 </ul>
 
+# CONCLUSION
 
-
-Applications: 
-
-This dataset is commonly used for:
-
-Machine Learning model training (e.g., classification algorithms like SVM, Decision Trees, Neural Networks)
-
-Feature selection and data preprocessing experiments
-
-Signal processing and sonar-based object detection research
+This project successfully classifies sonar signals into Rock or Mine using various machine learning techniques. The comparison of different models helps in understanding which approach is most effective for this dataset.
 

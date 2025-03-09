@@ -25,8 +25,9 @@ The dataset is loaded from a CSV file and preprocessed to handle missing values 
 
 **Exploratory Data Analysis (EDA):**
 
--Perform data visualization to understand the distribution of sonar signal intensities.
--Generate correlation heatmaps to analyze feature relationships.
+*Perform data visualization to understand the distribution of sonar signal intensities.
+
+*Generate correlation heatmaps to analyze feature relationships.
 
 
 Applications: 

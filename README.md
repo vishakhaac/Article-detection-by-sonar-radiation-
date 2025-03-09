@@ -43,17 +43,17 @@ The step-by-step procedure of how the project works:
 
 To run this project, install the following dependencies:
 <ul>
-  <li>Python
+  <li>Python</li>
 
-NumPy
+  <li>NumPy</li>
 
-Pandas
+<li>Pandas</li>
 
-Scikit-learn
+<li>Scikit-learn</li>
 
-Matplotlib
+<li>Matplotlib</li>
 
-Seaborn.</li>
+<li>Seaborn.</li>
  
 </ul>
 

@@ -23,11 +23,13 @@ The step-by-step procedure of how the project works:
  **1.Data Loading and Preprocessing:**
 The dataset is loaded from a CSV file and preprocessed to handle missing values and normalize the numerical columns.
 
-**Exploratory Data Analysis (EDA):**
+**2.Exploratory Data Analysis (EDA):**
 
-*Perform data visualization to understand the distribution of sonar signal intensities.
+<ul>
+  <li>Perform data visualization to understand the distribution of sonar signal intensities.</li>
+  <li>Generate correlation heatmaps to analyze feature relationships.</li>
+</ul>
 
-*Generate correlation heatmaps to analyze feature relationships.
 
 
 Applications: 

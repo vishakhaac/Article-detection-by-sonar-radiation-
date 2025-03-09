@@ -1,7 +1,8 @@
 # Article-detection-by-sonar-radiation-
-Overview
 
-This repository contains the Sonar Dataset, which is commonly used for binary classification tasks. The dataset includes sonar signals reflected off metal cylinders and rocks, making it ideal for machine learning applications in object recognition and signal processing.
+# Goal
+
+This project implements a binary classification model using Logistic Regression to distinguish between rocks and mines based on sonar readings. The model is trained on the "Sonar Dataset," which contains frequency-based sonar signals reflected from objects in the water.
 
 Dataset Information
 

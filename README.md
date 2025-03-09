@@ -1,12 +1,15 @@
 # Article-detection-by-sonar-radiation-
 
 # Goal
-
 This project implements a binary classification model using Logistic Regression to distinguish between rocks and mines based on sonar readings. The model is trained on the "Sonar Dataset," which contains frequency-based sonar signals reflected from objects in the water.
 
-Dataset Information
+# Dataset 
+ dataset is in the form of CSV file.
+ The dataset consists of numerical sonar readings as features.
 
-File Name: sonar dataset.csv
+The target variable:
+R (Rock)
+M (Mine)
 
 Format: CSV (Comma-Separated Values)
 

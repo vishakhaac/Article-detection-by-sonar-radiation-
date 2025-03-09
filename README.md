@@ -4,15 +4,13 @@
 This project implements a binary classification model using Logistic Regression to distinguish between rocks and mines based on sonar readings. The model is trained on the "Sonar Dataset," which contains frequency-based sonar signals reflected from objects in the water.
 
 # Dataset 
- dataset is in the form of CSV file.
- The dataset consists of numerical sonar readings as features.
+The data is in the form of a CSV file.
 
-The target variable:
-R (Rock)
-M (Mine)
+# DESCRIPTION
 
-Format: CSV (Comma-Separated Values)
-
+With an input of sonar signal data, the implementation applies machine learning algorithms to classify the signals.
+The model is trained using supervised learning techniques to distinguish between rocks and mines effectively.
+ 
 Number of Samples: 208
 
 Number of Features: 60

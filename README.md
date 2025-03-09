@@ -21,7 +21,12 @@ Target Variable: Binary classification (R for Rock, M for Mine)
 The step-by-step procedure of how the project works:
 
  **1.Data Loading and Preprocessing:**
-Load the dataset from a CSV file and Handle missing values and normalize numerical features.
+The dataset is loaded from a CSV file and preprocessed to handle missing values and normalize the numerical columns.
+
+**Exploratory Data Analysis (EDA):**
+
+-Perform data visualization to understand the distribution of sonar signal intensities.
+-Generate correlation heatmaps to analyze feature relationships.
 
 
 Applications: 

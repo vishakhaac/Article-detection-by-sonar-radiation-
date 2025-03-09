@@ -21,7 +21,10 @@ Target Variable: Binary classification (R for Rock, M for Mine)
 The step-by-step procedure of how the project works:
 
  **1.Data Loading and Preprocessing:**
-The dataset is loaded from a CSV file and preprocessed to handle missing values and normalize the numerical columns.
+ <ul>
+  <li>The dataset is loaded from a CSV file.</li>
+  <li>Preprocessed to handle missing values and normalize the numerical columns..</li>
+</ul>
 
 **2.Exploratory Data Analysis (EDA):**
 

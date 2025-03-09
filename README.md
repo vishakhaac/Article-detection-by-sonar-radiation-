@@ -16,8 +16,16 @@ Number of Samples: 208
 Number of Features: 60
 
 Target Variable: Binary classification (R for Rock, M for Mine)
+# WHAT I HAD DONE
 
-Each row in the dataset represents a sample with 60 numeric attributes (representing sonar signal frequencies) and a target label (R or M).
+The step-by-step procedure of how the project works:
+
+Data Loading and Preprocessing:
+
+Load the dataset from a CSV file.
+
+Handle missing values and normalize numerical features.
+
 
 Applications: 
 
